@@ -10,4 +10,4 @@ r_json=r.json()
 
 with open('commute_data.csv', mode='w', newline='') as file:
   writer = csv.writer(file)
-  writer.writerows(r.json())
+  writer.writerows(r_json)
