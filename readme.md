@@ -74,8 +74,7 @@ Pull requests are welcome! Please open an issue first to discuss any major chang
 
 ## 👤 Author
 
-* GitHub: \[your\_username]
-* Twitter: \[@your\_handle] (optional)
+* GitHub:https://github.com/obirikan
 
 ---
 
